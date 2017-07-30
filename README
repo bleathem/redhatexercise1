@@ -1,0 +1,6 @@
+To run exercise1.js, simply put the code into an online js compiler such as JSFiddle. Run the code, inspect the page, and look at the brower console to see the answer. 
+
+To run text.js, install mocha.js. You can follow the instructions here: https://mochajs.org/. 
+
+Once Mocha is installed, simply run "mocha test.js"
+
